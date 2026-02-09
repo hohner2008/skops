@@ -5,3 +5,4 @@ pandas
 scikit-learn
 xgboost
 git+https://github.com/skops-dev/skops.git
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
